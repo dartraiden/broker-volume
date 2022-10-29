@@ -997,6 +997,7 @@ function A:UpdateBroker()
             A.ldb.icon = "Interface\\AddOns\\Broker_Volume\\Graphics\\sound-mute";
         end
     end
+A.icon:IconCallback(nil, "BrokerVolumeIcon", "icon", A.ldb.icon)
 end
 
 --- Reset sound options after LFG proposal, when needed

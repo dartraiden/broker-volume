@@ -355,7 +355,7 @@ function A:CreateSlidersFrame()
     f.close:SetNormalFontObject(GameFontHighlightSmallLeft);
     f.close:SetText(L["Close"]);
     f.close:SetPoint("TOPLEFT", f, 10, -280);
-    f.close:SetHighlightTexture("Interface\\QuestFrame\\UI-QuestTitleHighlight", ADD);
+    f.close:SetHighlightTexture("Interface\\QuestFrame\\UI-QuestTitleHighlight", "ADD");
     f.close:SetScript("OnClick", function() f:Hide(); end);
     f.close:SetScript("OnEnter", function()
         if ( A.slidersFrame.closeTimer ) then
