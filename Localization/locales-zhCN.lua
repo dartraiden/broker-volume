@@ -81,8 +81,6 @@ L["Options"] = "选项"
 --[[Translation missing --]]
 --[[ L["Pet Battle Music"] = ""--]] 
 --[[Translation missing --]]
---[[ L["PLayback"] = ""--]] 
---[[Translation missing --]]
 --[[ L["Playback"] = ""--]] 
 --[[Translation missing --]]
 --[[ L["Queued volume boost"] = ""--]] 

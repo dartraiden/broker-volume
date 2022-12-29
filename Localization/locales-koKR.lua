@@ -62,8 +62,6 @@ L["Options"] = "옵션"
 --[[ L["Other options"] = ""--]] 
 L["Pet Battle Music"] = "애완동물 대전 음악"
 --[[Translation missing --]]
---[[ L["PLayback"] = ""--]] 
---[[Translation missing --]]
 --[[ L["Playback"] = ""--]] 
 L["Queued volume boost"] = "대기열 종료시 음량 키움"
 L["Queued volume is enabled but all sound is currently disabled."] = "대기열 음량 키움 옵션이 켜졌지만 모든 효과음이 꺼져있는 상태입니다."
